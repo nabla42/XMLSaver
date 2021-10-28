@@ -1,0 +1,27 @@
+<companies>
+    <company>
+        <name>IT-Heaven</name>
+            <employees>
+                <employee uuid = "123" firstName="Maksim" lastName="M" job="Middle Software Developer" />
+                <employee uuid = "124" firstName="Ivan" lastName="I" job="Junior Software Developer" />
+                <employee uuid = "125" firstName="Franklin" lastName="F" job="Junior Software Developer" />
+            </employees>
+    </company>
+    <company>
+        <name>IT-Hell</name>
+            <employees>
+                <employee uuid = "126" firstName="Herald" lastName="H" job="Middle Software Developer" />
+                <employee uuid = "127" firstName="Adam" lastName="A" job="Middle Software Developer" />
+                <employee uuid = "128" firstName="Leroy" lastName="L" job="Junior Software Developer" />
+            </employees>
+    </company>
+    <company>
+        <name>IT-Test</name>
+            <employees>
+                <employee uuid = "129" firstName="Henry" lastName="H" job="Middle Software Developer" />
+                <employee uuid = "133" firstName="Polly" lastName="A" job="Middle Software Developer" />
+                <employee uuid = "131" firstName="Katy" lastName="L" job="Junior Software Developer" />
+                <employee uuid = "136" firstName="Alex" lastName="Luvo" job="Junior Software Developer" />
+            </employees>
+    </company>
+</companies>
